@@ -92,12 +92,15 @@ Adjust UMAP parameters for `Embedding Space` visualization in [backend/app/confi
 If you use this tool in your research, please cite our paper:
 
 ```bibtex
-@misc{lee2025unlearning,
-  title = {{Unlearning Comparator:} A Visual Analytics System for Comparative Evaluation of Machine Unlearning Methods},
-  author = {Jaeung Lee and Suhyeon Yu and Yurim Jang and Simon S. Woo and Jaemin Jo},
-  year   = {2025},
-  note   = {arXiv:2508.12730},
-  url    = {https://arxiv.org/abs/2508.12730}
+@article{lee2026unlearning,
+  title   = {{Unlearning Comparator}: A Visual Analytics System for Comparative Evaluation of Machine Unlearning Methods},
+  author  = {Lee, Jaeung and Yu, Suhyeon and Jang, Yurim and Woo, Simon S. and Jo, Jaemin},
+  journal = {IEEE Transactions on Visualization and Computer Graphics},
+  volume  = {32},
+  number  = {3},
+  pages   = {2852--2867},
+  year    = {2026},
+  doi     = {10.1109/TVCG.2026.3658325}
 }
 ```
 
